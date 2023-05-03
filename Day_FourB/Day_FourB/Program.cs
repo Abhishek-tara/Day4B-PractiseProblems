@@ -9,8 +9,12 @@
             //countDuplicate.CountMethod();
 
             //UC2
-            PrintUniqueElements printUnique = new PrintUniqueElements();
-            printUnique.Print();
+            //PrintUniqueElements printUnique = new PrintUniqueElements();
+            //printUnique.Print();
+
+            //UC3
+            CountFrequency frequency = new CountFrequency();
+            frequency.Count();
         }
     }
 }
