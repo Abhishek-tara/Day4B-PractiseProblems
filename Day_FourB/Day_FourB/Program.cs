@@ -17,8 +17,12 @@
             //frequency.Count();
 
             //UC4
-            FindMinMax findMinMax = new FindMinMax();
-            findMinMax.Find();
+            //FindMinMax findMinMax = new FindMinMax();
+            //findMinMax.Find();
+
+            //UC5
+            InvertedPyramid pyramid = new InvertedPyramid();
+            pyramid.Print();
         }
     }
 }
