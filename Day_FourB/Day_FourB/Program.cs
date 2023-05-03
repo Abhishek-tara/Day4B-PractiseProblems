@@ -13,8 +13,12 @@
             //printUnique.Print();
 
             //UC3
-            CountFrequency frequency = new CountFrequency();
-            frequency.Count();
+            //CountFrequency frequency = new CountFrequency();
+            //frequency.Count();
+
+            //UC4
+            FindMinMax findMinMax = new FindMinMax();
+            findMinMax.Find();
         }
     }
 }
