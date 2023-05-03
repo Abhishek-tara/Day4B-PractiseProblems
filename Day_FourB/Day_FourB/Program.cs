@@ -29,8 +29,12 @@
             //hollow.PrintHollow();
 
             //UC7
-            ReverseWord reverse = new ReverseWord();
-            reverse.PrintReverse();
+            //ReverseWord reverse = new ReverseWord();
+            //reverse.PrintReverse();
+
+            //UC8
+            DigitSum num = new DigitSum();
+            num.Sum();
         }
     }
 }
