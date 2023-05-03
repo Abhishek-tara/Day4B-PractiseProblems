@@ -25,8 +25,12 @@
             //pyramid.Print();
 
             //UC6
-            HollowPattern hollow = new HollowPattern();
-            hollow.PrintHollow();
+            //HollowPattern hollow = new HollowPattern();
+            //hollow.PrintHollow();
+
+            //UC7
+            ReverseWord reverse = new ReverseWord();
+            reverse.PrintReverse();
         }
     }
 }
