@@ -21,8 +21,12 @@
             //findMinMax.Find();
 
             //UC5
-            InvertedPyramid pyramid = new InvertedPyramid();
-            pyramid.Print();
+            //InvertedPyramid pyramid = new InvertedPyramid();
+            //pyramid.Print();
+
+            //UC6
+            HollowPattern hollow = new HollowPattern();
+            hollow.PrintHollow();
         }
     }
 }
